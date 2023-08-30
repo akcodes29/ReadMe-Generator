@@ -67,7 +67,6 @@ ${data.usage}
 
 ${data.contributing}
 
-
 ## Tests
 
 ${data.tests}

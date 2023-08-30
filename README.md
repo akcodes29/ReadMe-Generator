@@ -1,11 +1,11 @@
-# RM G
+# ReadMe Generator
  
   ## - [License](#license) ![License](https://img.shields.io/badge/MIT-purple.svg)
  ### https://choosealicense.com/licenses/mit/
 
 ## Description
 
-xyz
+As a developer, I want a README generator, SO THAT I can quickly create a professional README for a new project
 
 ## Table of Contents
 
@@ -17,19 +17,19 @@ xyz
 - [Questions](#questions)
 
 ## Installation
-ss
+You need inquirer, fs, and utils
 
 ## Usage
-sss
+Use the command-line to input the prompted information
 
 ## Credits
 
-sss
+n/a
 
 
 ## Tests
 
-ss
+type 'node index.js' into the terminal 
 
 ## Questions
 ### If you have any questions, you may contact me at either
